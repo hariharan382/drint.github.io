@@ -11,8 +11,8 @@ locale                   : "en-NL"
 title                    : "Hari Haran / .Dot"
 title_separator          : "-"
 name                     : &name "Hari Haran"
-description              : &description "I am maste student in Robotics, I am Passionate about making robots more specifically, giving the intelligence to the non-living obect to move"
-url                      : https://drint.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am master student in Robotics, I am Passionate about making robots more specifically, giving the intelligence to the non-living obect to move"
+url                      : "https://hariharan382.github.io/drint.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hariharan382/drint.github.io"
 
@@ -38,11 +38,6 @@ author:
   
 
   # Social media
-  bluesky          : "Nil"
-  facebook         : "Nil"
-  goodreads        : "Nil"
-  instagram        : "Nil"
-
   linkedin         : "www.linkedin.com/in/hari-haran-379579181"
   mastodon         : "Drint"
   soundcloud       : "https://soundcloud.com/drint382?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
