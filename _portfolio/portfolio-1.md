@@ -12,6 +12,8 @@ Materials Used :
     Arduino is the microcontroller for the servo.
 
     * ![Arduino Uno](../images/quadruped/arduino_uno.png)
+
+    * <img src="../images/quadruped/arduino_uno.png" alt="Arduino Uno" width="300">
      
     
 
