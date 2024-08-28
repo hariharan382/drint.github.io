@@ -1,6 +1,6 @@
 ---
 title: "Design of 12DoF Quadruped robot"
-excerpt: "Inspired from staford Pupper, low coast quadruped robot in ROS <br/><img src='/images/quadruped/Quadruped_f360.png>"
+excerpt: "Inspired from staford Pupper, low coast quadruped robot in ROS <br/><img src='https://github.com/hariharan382/drint.github.io/tree/main/images/quadruped>"
 collection: portfolio
 ---
 
