@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Design of 12DoF Quadruped robot"
+excerpt: "Inspired from staford Pupper, I designed this robot to 3d printable as the orgin 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
