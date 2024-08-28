@@ -1,7 +1,15 @@
 ---
 title: "Design of 12DoF Quadruped robot"
-excerpt: "Inspired from staford Pupper, I designed this robot to 3d printable as the orgin 1<br/><img src='/images/500x300.png'>"
+excerpt: "Inspired from staford Pupper, low coast quadruped robot in ROS <br/><img src='/images/quadruped/Quadruped_f360.png>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This Quadruped robot was inspired from the open Source Staford Pupper, where the original kit cost was 600$. My robot was designed under 40$(12 servo, drivers, chassis) + 35$(Raspberry Pi). The robot has 12 DoF moving in omnidirectional in a planar surface.
+
+## Definition Lists
+Materials Used :
+    * <img title="Arduino" alt="Alt text" src="/images/quadruped/arduino_uno.png"> :
+    Arduino is the microcontroller for the servo.
+     
+    
+
