@@ -10,6 +10,8 @@ This Quadruped robot was inspired from the open Source Staford Pupper, where the
 Materials Used :
     * <img title="Arduino" alt="Alt text" src="https://github.com/hariharan382/drint.github.io/blob/main/images/quadruped/Quadruped_f360.png"> :
     Arduino is the microcontroller for the servo.
+
+    * ![Arduino Uno](../images/quadruped/arduino_uno.png)
      
     
 
